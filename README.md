@@ -48,13 +48,12 @@ your-nextjs-docker-project/
 
     ```bash
     git clone https://github.com/DarumaKlang/Next.js-Docker.git
-    # ตัวอย่าง: git clone [https://github.com/DarumaKlang/Next.js-Docker.git](https://github.com/DarumaKlang/Next.js-Docker.git) 
     ```
 
 2.  **เข้าสู่โฟลเดอร์โปรเจกต์:**
 
     ```bash
-    cd next-for-docker # เปลี่ยนเป็นชื่อโฟลเดอร์โปรเจกต์ของคุณ
+    cd next-for-docker
     ```
 
 3.  **Build Docker Images และรัน Containers:**
