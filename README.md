@@ -47,14 +47,14 @@ your-nextjs-docker-project/
     เปิด Terminal หรือ Command Prompt และใช้คำสั่ง `git clone` เพื่อดาวน์โหลดโปรเจกต์นี้:
 
     ```bash
-    git clone [URL_ของ_GitHub_Repository_นี้]
-    # ตัวอย่าง: git clone [https://github.com/your-username/your-nextjs-docker-project.git](https://github.com/your-username/your-nextjs-docker-project.git)
+    git clone https://github.com/DarumaKlang/Next.js-Docker.git
+    # ตัวอย่าง: git clone [https://github.com/DarumaKlang/Next.js-Docker.git](https://github.com/DarumaKlang/Next.js-Docker.git) 
     ```
 
 2.  **เข้าสู่โฟลเดอร์โปรเจกต์:**
 
     ```bash
-    cd your-nextjs-docker-project # เปลี่ยนเป็นชื่อโฟลเดอร์โปรเจกต์ของคุณ
+    cd next-for-docker # เปลี่ยนเป็นชื่อโฟลเดอร์โปรเจกต์ของคุณ
     ```
 
 3.  **Build Docker Images และรัน Containers:**
